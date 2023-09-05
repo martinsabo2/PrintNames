@@ -1,13 +1,10 @@
-﻿using System;
+﻿namespace PrintNames;
 
-namespace PrintNames
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Martin Sabo");
-            // Console.WriteLine("dalsie meno");
-        }
+        Console.WriteLine("Martin Sabo");
+        // Console.WriteLine("next name");
     }
 }
